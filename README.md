@@ -16,6 +16,8 @@ YOU MUST USE C++17 or above
 
 6.) Run the executable from the build directory: COMMAND = ./PlaySnake
 
+
+
 Playing the game:
 
 1.) Use WASD keys for movement. (W = up, A = left, S = down, D = right) NOTE: You cannot move 180 degrees, you must move 90 degrees first.
@@ -23,4 +25,4 @@ Playing the game:
 2.) When game is over, close the window or wait for 5 sec. timeout.
 
 3.) Re-run the executable from terminal to replay.
-# CSCI384-Project1
+
